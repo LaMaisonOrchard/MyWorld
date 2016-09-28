@@ -1,0 +1,13 @@
+{
+	"name": "myworld",
+	"authors": [
+		"David Orchard"
+	],
+	"description": "Simulate the solar system.",
+	"copyright": "Copyright © 2016, David Orchard",
+	"license": "BOOST",
+        "dependencies": {
+                "derelict-gl3": "~>1.0.19",
+                "derelict-sdl2": "~>2.0.2"
+        }
+}
